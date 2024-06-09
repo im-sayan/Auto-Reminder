@@ -36,4 +36,4 @@ def main():
 
 while True:
     main()
-    time.sleep(3)
+    time.sleep(10)
